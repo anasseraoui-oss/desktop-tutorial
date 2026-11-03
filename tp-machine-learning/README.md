@@ -1,9 +1,10 @@
-# TPs Machine Learning : KNN (Iris) et Régression linéaire (Airbnb NYC)
+# TPs Machine Learning : KNN (Iris), Régression linéaire (Airbnb NYC), Kohonen SOM
 
 | TP | Notebook | Résultat principal |
 |----|----------|--------------------|
 | TP1 : classification des iris avec KNN | [`tp1_knn_iris/TP1_KNN_class_flor_iris.ipynb`](tp1_knn_iris/TP1_KNN_class_flor_iris.ipynb) | Exactitude sur le jeu de test = **0.97** (k = 1) ; `[5, 2.9, 1, 0.2]` est prédite **setosa** |
 | TP2 : régression linéaire, prix Airbnb à Brooklyn | [`tp2_regression_lineaire/TP2_Regression_Lineaire.ipynb`](tp2_regression_lineaire/TP2_Regression_Lineaire.ipynb) | Régression simple : a = 0.00068, b = 4.55 (≈ 95 $) ; régression multiple : MAE = 62.85 $, RMSE = 155.53 $ |
+| TP3 : cartes de Kohonen (SOM), exécuté dans Anaconda + Jupyter sous Docker | [`tp3_kohonen_som/notebooks/TP3_Kohonen_SOM.ipynb`](tp3_kohonen_som/notebooks/TP3_Kohonen_SOM.ipynb) ([README](tp3_kohonen_som/README.md)) | Carte 15×15 entraînée ; erreur de quantification = **0.2126** |
 
 Chaque dossier contient aussi l'export HTML du notebook exécuté.
 
