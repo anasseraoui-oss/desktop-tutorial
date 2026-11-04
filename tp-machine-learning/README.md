@@ -9,6 +9,8 @@
 
 Chaque dossier contient aussi l'export HTML du notebook exécuté.
 
+📘 **Pour tout refaire à la main, étape par étape (Anaconda + Jupyter, sans Docker) : [GUIDE_MANUEL.md](GUIDE_MANUEL.md)**
+
 ## Exécution
 
 ```bash
